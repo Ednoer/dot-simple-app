@@ -38,7 +38,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Use the following credentials to log in:
 - **Email:** persona@gmail.com  
-- **Password:** person  
+- **Password:** persona  
 - Login URL: [https://dot-simple-app-j3ct.vercel.app/auth/login](https://dot-simple-app-j3ct.vercel.app/auth/login)
 
 ## API and Data Handling
