@@ -10,5 +10,17 @@
     "username": "admin",
     "email": "admin@gmail.com",
     "password": "admin"
+  },
+  {
+    "id": 1742708440990,
+    "username": "misalnya",
+    "email": "misalnya@gmail.com",
+    "password": "misalnya"
+  },
+  {
+    "id": 1742709586549,
+    "username": "coba1",
+    "email": "coba1@gmail.com",
+    "password": "coba1234"
   }
 ]

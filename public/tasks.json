@@ -1,20 +1,11 @@
 [
   {
     "id": 1742652602856,
-    "namaTask": "Berkeunjung Ke Pulau Holiq",
+    "namaTask": "Berkeunjung Ke Pulau Holiq Sahid",
     "deskripsiTask": "Berkeunjung Ke Pulau Holiq Setahun Sekali",
     "isiTask": "Berkunjung ke pulai holiq bersama keluarga, tanpa membawa binatang, hanya membawa makanan dan minuman untuk bertahan dengan rakyat viking",
     "statusTask": "Completed",
     "startTask": "2025-04-03",
     "endTask": "2025-07-30"
-  },
-  {
-    "id": 1742653074387,
-    "namaTask": "Lorem Ipsum Dolor Sit",
-    "deskripsiTask": "Lorem Ipsum Dolor Sit Jamet Avow Waka Waka Ee Samina ",
-    "isiTask": "Lorem Ipsum Dolor Sit Jamet Avow Waka Waka Ee Samina Mina Ee Waka Waka Ee",
-    "statusTask": "Aborted",
-    "startTask": "2025-03-21",
-    "endTask": "2025-04-05"
   }
 ]

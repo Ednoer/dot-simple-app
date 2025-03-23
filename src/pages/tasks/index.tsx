@@ -11,7 +11,6 @@ interface Task {
 
 export default function Page() {
   const breadcrumbs = [
-    { label: "Task Management", path: "#" },
     { label: "Tasks", path: "/tasks" },
   ];
 
